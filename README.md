@@ -38,4 +38,3 @@ Python extension
 GitLens
 Prettier - Code formatter
 
-STEP 9: 
